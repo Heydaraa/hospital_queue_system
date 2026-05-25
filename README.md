@@ -32,11 +32,10 @@ It allows patients to track their position in the queue while enabling staff to 
 - Monitor queue status
 - Control and update queue flow
 
-  ### 👨‍💼 Doctor
-  - Manage Assigned patient queue
-  - Call next patients
+### 👨‍💼 Doctor
+- Manage Assigned patient queue
+- Call next patients
     
-  
 ---
 
 ## 🛠️ Tech Stack
