@@ -108,6 +108,4 @@ Complaint-Support/
 - Ensure environment variables are correctly configured
 - Backend must be running before frontend
 - MySQL database must be created and connected properly
-📄 License
 
-This project is developed for educational and internship purposes.
