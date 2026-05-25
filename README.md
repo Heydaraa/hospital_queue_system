@@ -22,15 +22,20 @@ It allows patients to track their position in the queue while enabling staff to 
 
 ### 👤 Patient Features
 - Register and login
-- Join hospital queue
+- After login fill additional information required
 - Track real-time queue position
 - View current turn on public display screen
 
-### 👨‍💼 Admin / Staff Features
+### 👨‍💼 Admin 
+- Assign Doctors to patients
 - Manage patient queue
-- Call next patient
 - Monitor queue status
 - Control and update queue flow
+
+  ### 👨‍💼 Doctor
+  - Manage Assigned patient queue
+  - Call next patients
+    
   
 ---
 
